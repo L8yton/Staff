@@ -16,5 +16,5 @@
 
 ---
 
-Love From the Dev Tea, <3
+Love From the Dev Team <3
 
