@@ -1,6 +1,6 @@
 # 🕶️ <span style="color:#ff66cc;">Staff Portal</span> <span style="color:#111111;">//</span> <span style="color:#ff66cc;">The Team</span>
 
-> <em><span style="color:#bbbbbb;">A collective of ethical hackers, scripters, and digital misfits.</span></em>
+> <em><span style="color:#bbbbbb;">A Group of weirdos with one common goal <3 </span></em>
 
 ---
 
